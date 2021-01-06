@@ -29,6 +29,10 @@ section {
 .top-part {
   margin-top: 3%;
 }
+h1 {
+  font-size: 65px;
+  font-family: "Big Shoulders Stencil Text", cursive;
+}
 .width-box {
   width: 41%;
   padding-left: 2%;
@@ -40,11 +44,7 @@ section {
   float: left;
 }
 .width-box-2 img {
-  width: 110%;
-}
-h1 {
-  font-size: 65px;
-  font-family: "Big Shoulders Stencil Text", cursive;
+  width: 105%;
 }
 span {
   color: #e4a512;
@@ -58,19 +58,21 @@ span {
 .link-btn {
   padding: 15px 40px;
   text-decoration: none;
-  background: linear-gradient(45deg, #e4a512, #ec69b6);
+  background: linear-gradient(90deg, #e9835bfb, #e4bd12);
   border-radius: 5px;
   font-size: 15px;
   color: white;
+}
+
+.about {
+  margin-top: 5%;
 }
 .box {
   width: 40%;
   padding-left: 2%;
   float: left;
 }
-.about {
-  margin-top: 5%;
-}
+
 .box img {
   width: 110%;
 }
@@ -95,7 +97,7 @@ span {
 .link-btn2 {
   padding: 15px 20px;
   text-decoration: none;
-  background: linear-gradient(45deg, #e4a512, #ec69b6);
+  background: linear-gradient(90deg, #e9835bfb, #e4bd12);
   border-radius: 5px;
   font-size: 15px;
   color: white;
@@ -154,7 +156,7 @@ span {
 .link-btn3 {
   padding: 15px 20px;
   text-decoration: none;
-  background: linear-gradient(45deg, #e4a512, #ec69b6);
+  background: linear-gradient(90deg, #e9835bfb, #e4bd12);
   border-radius: 5px;
   font-size: 15px;
   color: white;
@@ -181,8 +183,8 @@ span {
 }
 footer {
   text-align: center;
-  margin-top: -12%;
-  margin-bottom: 3%;
+  margin-top: -14%;
+  margin-bottom: 4%;
 }
 footer h3 {
   color: #5c5894;
